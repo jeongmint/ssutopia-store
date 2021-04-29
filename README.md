@@ -1,17 +1,8 @@
-# 웹프로그래밍설계및실습(2020-02)
-## 송현주 교수님
-### 급하게 과제 뽀개기..
+# SSUTOPIA DOLL STORE
+## 2022.02 ~ 숭실대학교 졸업인형 "졸슝이" 판매 스토어 
 
 ****
 
-## 과제 주요 명세
-* (10점) 사용자등록/ 로그인/ 로그아웃(/)
-** 비밀번호를 암호화 없이 저장할 경우 감점
-
-* (10점) 소개페이지(/about) –static한HTML 페이지
-
-* (10점) 게시판(/board) –읽기, 쓰기, 수정, 삭제
-** 제목, 작성자, 작성일, 본문, (…hashtag)
-
-* (10점) 사진갤러리(/gallery) –읽기, 쓰기, 수정, 삭제
-** 사진, 작성자, 작성일, (…hashtag)
+## 졸슝이
+![notion_thumbnail](https://user-images.githubusercontent.com/39428260/116549600-a8c5ed00-a930-11eb-805e-1a979801e598.png)
+[졸슝이 인스타그램](https://www.instagram.com/ssutopia_doll/){: target="_blank"}
