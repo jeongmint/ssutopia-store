@@ -6,4 +6,4 @@
 
 ## 졸슝이 소개
 ![notion_thumbnail](https://user-images.githubusercontent.com/39428260/116549600-a8c5ed00-a930-11eb-805e-1a979801e598.png)
-[졸슝이 인스타그램](https://www.instagram.com/ssutopia_doll/){: target="_blank"}
+[졸슝이 인스타그램](https://www.instagram.com/ssutopia_doll/)
