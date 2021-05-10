@@ -1,4 +1,4 @@
-# SSUTOPIA DOLL STORE
+# SSUNIVERSE STORE
 ## 2022.02 ~ 숭실대학교 졸업인형 "졸슝이"
 판매 스토어 제작을 위한 레포지토리입니다.
 
