@@ -1,5 +1,5 @@
 # SSUNIVERSE STORE
-## 2022.02 ~ 숭실대학교 졸업인형 "졸슝이"
+## 숭실대학교 기부문화 확산을 위한 캐릭터 "슈아"
 판매 스토어 제작을 위한 레포지토리입니다.
 
 ****
@@ -19,9 +19,9 @@
 <br><br><br>
 
 
-## 졸슝이 소개
+## 슈아 소개
 ![notion_thumbnail](https://user-images.githubusercontent.com/39428260/116549600-a8c5ed00-a930-11eb-805e-1a979801e598.png)
 
 <br>
 
-[졸슝이 인스타그램](https://www.instagram.com/ssutopia_doll/)
+[슈아 인스타그램](https://www.instagram.com/ssutopia_doll/)
