@@ -4,6 +4,23 @@
 
 ****
 
+#primary
+a46497 - 11b6f7
+
+#primary : hover
+96588a - 19a1ff - 11abe7
+
+#green
+77a464 - 134dab
+
+message
+8fae1b - 34abff 
+
+message before
+8fae1b - 6cbef7
+
+****
+
 ## 팀 소개
 
 <img src="img\ssuniverse_logo.png" width=270px height=270px>
