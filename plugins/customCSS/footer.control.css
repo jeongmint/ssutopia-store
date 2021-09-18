@@ -1,0 +1,5 @@
+/* ------------------------------------------------------------------------- *
+ *  New Footer (by. Jeongmint)
+/* ------------------------------------------------------------------------- */
+/* 하단 Footer 흰색 배경 처리하기 */
+#footer-bottom { width:100%; background-color:#ffff; min-height:250px; padding:10px 0px 25px 0px ; margin-top : 0px; margin-bottom: 40px; position: relative; z-index: 99; text-align: left;}

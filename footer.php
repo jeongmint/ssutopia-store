@@ -89,7 +89,7 @@
 							<br>
 							<a href="https://pf.kakao.com/_JNgis">🗳️ 카카오톡 채널 고객센터</a> | 
 							<a href="mailto:chef@ssunivs.com?cc=snvs.official@gmail.com">Contact Us 📧</a> | 
-							<a href="https://ssuniverse.notion.site/Hello-SSUNIVERSE-7373f0cd163d4d2ca0b1574389441727">Notion <img src="https://raw.githubusercontent.com/ssunivs/ssutopia-store/main/img/flower-blue.png" border="0" width="16" height="16" alt='Team Notion' /></a>
+							<a href="https://ssuniverse.notion.site/Hello-SSUNIVERSE-7373f0cd163d4d2ca0b1574389441727">Notion <img src="https://raw.githubusercontent.com/ssunivs/ssutopia-store/main/img/flower-blue.png" border="0" width="18" height="18" alt='Team Notion' /></a>
 							<br><br>
 						</p>
 						<p>
