@@ -69,7 +69,7 @@
 					
 					<?php if ( get_theme_mod( 'credit', 'on' ) == 'on' ): ?>
 					<div id="credit">
-						<p> 슈니버스 | 서울특별시 동작구 상도로55길 8, 2층 공용창업공간(상도동, 챌린지스테이션)<br>
+						<p> 슈니버스 | 서울특별시 동작구 상도로55길 8, 304호(상도동, 챌린지스테이션)<br>
 							대표👩🏻‍💼  최정민<br>
 							사업자등록번호 : 435-73-00312 <a href="http://www.ftc.go.kr/bizCommPop.do?wrkr_no=4357300312" target="_blank">🔍 </a>
 							| 통신판매업신고번호 : 2021-서울동작-1371<br><br>
@@ -87,14 +87,15 @@
 						</p>
 						<p>
 							<br>
-							<a href="https://pf.kakao.com/_JNgis">🗳️ 카카오톡 채널 고객센터</a> | 
-							<a href="mailto:chef@ssunivs.com?cc=snvs.official@gmail.com">Contact Us 📧</a> | 
-							<a href="https://ssuniverse.notion.site/Hello-SSUNIVERSE-7373f0cd163d4d2ca0b1574389441727">Notion <img src="https://raw.githubusercontent.com/ssunivs/ssutopia-store/main/img/flower-blue.png" border="0" width="18" height="18" alt='Team Notion' /></a>
-							<br><br>
-						</p>
-						<p>
+							<a href="https://pf.kakao.com/_JNgis">카카오톡 채널 고객센터</a> 
+							 | TEL. 0502-1905-0525 <br> <br>
+													<p>
 							<a href="https://www.ssunivs.com/개인정보-보호정책"> [개인정보 보호정책] | </a>
 							<a href="https://www.ssunivs.com/서비스-이용약관"> [서비스 이용약관] </a> <br><br>
+						</p>
+							<a href="mailto:chef@ssunivs.com?cc=snvs.official@gmail.com">Contact Us | </a>
+							<a href="https://ssuniverse.notion.site/Hello-SSUNIVERSE-7373f0cd163d4d2ca0b1574389441727">Notion <img src="https://raw.githubusercontent.com/ssunivs/ssutopia-store/main/img/flower-blue.png" border="0" width="18" height="18" alt='Team Notion' /></a>
+							<br><br>
 						</p>
 						<p>© 슈니버스 Co. All Rights Reserved. </p>
 					</div><!--/#credit-->
