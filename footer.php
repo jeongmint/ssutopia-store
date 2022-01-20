@@ -93,7 +93,7 @@
 							<a href="https://www.ssunivs.com/개인정보-보호정책"> [개인정보 보호정책] | </a>
 							<a href="https://www.ssunivs.com/서비스-이용약관"> [서비스 이용약관] </a> <br><br>
 						</p>
-							<a href="mailto:chef@ssunivs.com?cc=snvs.official@gmail.com">Contact Us | </a>
+							<a href="mailto:ssua@ssunivs.com?cc=snvs.official@gmail.com">Contact Us | </a>
 							<a href="https://ssuniverse.notion.site/Hello-SSUNIVERSE-7373f0cd163d4d2ca0b1574389441727">Notion <img src="https://raw.githubusercontent.com/ssunivs/ssutopia-store/main/img/flower-blue.png" border="0" width="18" height="18" alt='Team Notion' /></a>
 							<br><br>
 						</p>
